@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Full Stack ecommerce
       </p>
+      <p>Hello</p>
     </>
   )
 }
